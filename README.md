@@ -1,4 +1,4 @@
-# 骤雨重山图床
+# GHR图床
 
 English | [简体中文](https://github.com/uxiaohan/ZYCS-IMG/blob/main/README_CN.md)
 
@@ -44,4 +44,4 @@ English | [简体中文](https://github.com/uxiaohan/ZYCS-IMG/blob/main/README_C
 
 ### Project address
 
-[ZYCS-IMG - Github](https://github.com/uxiaohan/ZYCS-IMG)
+[ZYCS-IMG - Github](https://github.com/ghr0/ZYCS-IMG)
