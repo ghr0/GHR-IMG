@@ -3,10 +3,9 @@
     <Alert class="pt-0 pb-2 sm:py-4">
       <AlertTitle class="font-bold hidden sm:flex sm:gap-2"> <RocketIcon class="h-4 w-4 hidden sm:flex" /> Hello!</AlertTitle>
       <AlertDescription class="p-0 text-xs sm:text-sm">
-        <p class="pt-2">无限图片储存数量，你可以上传不限数量的图片！</p>
-        <p>图片首次访问后缓存，"永久"有效，包括全球分布的 CDN，以确保尽可能快地提供图像.</p>
+        <p class="pt-2">你可以上传不限数量的图片！每张最大15MB.</p>
         <p>GHR图床 是由 GHR 支持并维护的公益免费图床项目。</p>
-        <p style="font-weight: bold">开源地址: <a class="text-[#0969da]" href="https://github.com/ghr0/ZYCS-IMG" target="_blank">GHR-IMG</a></p>
+        <p style="font-weight: bold">开源地址: <a class="text-[#0969da]" href="https://github.com/ghr0/GHR-IMG" target="_blank">GHR-IMG</a></p>
       </AlertDescription>
     </Alert>
 
